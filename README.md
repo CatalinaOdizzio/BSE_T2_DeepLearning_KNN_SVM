@@ -1,1 +1,3 @@
-# BSE_T2_DeepLearning_KNN_SVM
+# Deep Learning
+
+Coursework for the course Deep Learning, taught in Term 2, at the Barcelona School of Economics.
